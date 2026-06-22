@@ -2184,7 +2184,7 @@ dependencies = [
 
 [[package]]
 name = "oxc_formatter_css"
-version = "0.54.0"
+version = "0.56.0"
 dependencies = [
  "cow-utils",
  "insta",
@@ -2192,6 +2192,7 @@ dependencies = [
  "oxc_diagnostics",
  "oxc_formatter_core",
  "oxc_span",
+ "phf 0.14.0",
  "pico-args",
  "raffia",
 ]
